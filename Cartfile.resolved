@@ -1,0 +1,7 @@
+github "Alamofire/Alamofire" "5.2.2"
+github "ReactiveX/RxSwift" "5.1.1"
+github "RxSwiftCommunity/RxAlamofire" "v5.6.1"
+github "wannagohome/KakaoSDKCommon" "0.1.0"
+github "wannagohome/KakaoSDKLink" "0.1.0"
+github "wannagohome/KakaoSDKTemplate" "0.1.0"
+github "wannagohome/RxKakaoSDKCommon" "0.1.0"
